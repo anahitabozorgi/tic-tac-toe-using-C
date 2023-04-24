@@ -1,1 +1,1 @@
-# tic-tac-toe-using-C-
+# tic-tac-toe-using-C++
